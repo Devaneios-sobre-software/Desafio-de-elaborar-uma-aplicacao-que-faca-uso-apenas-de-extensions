@@ -15,6 +15,22 @@ Criar uma aplicação funcional utilizando apenas as extensions do C#, de forma 
 - Deve possuir apenas camada de modelo e camada de infraestrutura
 - Deve elaborar um relatório descrevendo o que foi utilizado de tecnologia contendo as motivaçãoes E descrever as dificuldades encontradas E a conclusão sobre a implementação Entào colocar o relatório neste arquivo
 
+----------
+
+## Regras de commit
+
+### Legenda
+
+- Ins -> recurso novo, adição
+- Alt -> correção de recurso existente
+- Exc -> remoção de recurso
+
+### Exemplo
+
+`Ex.: Ins - regra de commit`
+
+----------
+
 ## Relatório
 
 ...
