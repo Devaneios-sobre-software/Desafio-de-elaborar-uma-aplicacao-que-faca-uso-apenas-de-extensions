@@ -28,7 +28,7 @@ Criar uma aplicação funcional utilizando apenas as extensions do C#, de forma 
 
 ### Exemplo
 
-`Ex.: Ins: regra de commit`
+`Ex.: adic: regra de commit`
 
 ----------
 
