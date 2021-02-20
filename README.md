@@ -21,14 +21,14 @@ Criar uma aplicação funcional utilizando apenas as extensions do C#, de forma 
 
 ### Legenda
 
-- Ins -> recurso novo, adição
-- Alt -> correção de recurso existente
-- Exc -> remoção de recurso
-- Refat -> melhoria de desempenho ou reorganização do código
+- adic -> Adicionado -> recurso novo, adição
+- ajst -> Ajustado -> correção de recurso existente, bugs (fix)
+- rmv -> Removido -> remoção de recurso
+- rft -> Refatorado -> melhoria de desempenho ou reorganização ou limpeza do código 
 
 ### Exemplo
 
-`Ex.: Ins - regra de commit`
+`Ex.: Ins: regra de commit`
 
 ----------
 
