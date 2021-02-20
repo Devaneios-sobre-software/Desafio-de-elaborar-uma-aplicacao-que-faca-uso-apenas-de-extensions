@@ -4,16 +4,16 @@ Criar uma aplicação funcional utilizando apenas as extensions do C#, de forma 
 
 ## Requisitos
 
-- Deve utilizar TDD com a lib de testes de sua escolha
-- Deve fazer as implementações das classes concretas apenas nas extensions
-- Deve fazer herança apenas na utilização de classes abstratas de terceiros
-- Deve integrar com banco de dados relacional E nosql E sistema de fila
-- Deve possuir um sistema de log Para registrar problemas ao tentar executar regras de negócio
-- Deve possuir um sistema de log Para registrar exceções inesperadas
-- Deve possuir um sistema de log Para registrar problemas ao tentar executar regras de aplicação
-- Deve utilizar conteiner
-- Deve possuir apenas camada de modelo e camada de infraestrutura
-- Deve elaborar um relatório descrevendo o que foi utilizado de tecnologia contendo as motivaçãoes E descrever as dificuldades encontradas E a conclusão sobre a implementação Entào colocar o relatório neste arquivo
+- [ ] Deve utilizar TDD com a lib de testes de sua escolha
+- [ ] Deve fazer as implementações das classes concretas apenas nas extensions
+- [ ] Deve fazer herança apenas na utilização de classes abstratas de terceiros
+- [ ] Deve integrar com banco de dados relacional E nosql E sistema de fila
+- [ ] Deve possuir um sistema de log Para registrar problemas ao tentar executar regras de negócio
+- [ ] Deve possuir um sistema de log Para registrar exceções inesperadas
+- [ ] Deve possuir um sistema de log Para registrar problemas ao tentar executar regras de aplicação
+- [ ] Deve utilizar conteiner
+- [ ] Deve possuir apenas camada de modelo e camada de infraestrutura
+- [ ] Deve elaborar um relatório descrevendo o que foi utilizado de tecnologia contendo as motivaçãoes E descrever as dificuldades encontradas E a conclusão sobre a implementação Entào colocar o relatório neste arquivo
 
 ----------
 
@@ -24,6 +24,7 @@ Criar uma aplicação funcional utilizando apenas as extensions do C#, de forma 
 - Ins -> recurso novo, adição
 - Alt -> correção de recurso existente
 - Exc -> remoção de recurso
+- Refat -> melhoria de desempenho ou reorganização do código
 
 ### Exemplo
 
