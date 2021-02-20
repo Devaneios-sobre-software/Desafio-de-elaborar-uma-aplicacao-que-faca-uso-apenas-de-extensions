@@ -1,4 +1,4 @@
-# Desafio de elaborar uma aplicação funcional que faça uso apenas de extensions
+# Kata - elaborar uma aplicação funcional que faça uso apenas de extensions
 
 Criar uma aplicação funcional utilizando apenas as extensions do C#, de forma que as classes concretas não possuam instruções, apenas as extensions podem conter implementação
 
